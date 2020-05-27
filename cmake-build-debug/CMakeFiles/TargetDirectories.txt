@@ -1,0 +1,3 @@
+D:/projects/mini/cg/cmake-build-debug/CMakeFiles/cg.dir
+D:/projects/mini/cg/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/mini/cg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
